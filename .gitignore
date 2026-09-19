@@ -12,5 +12,3 @@
 __pycache__/
 *.pyc
 
-# Large datasets
-financial_performance_1000000.csv
